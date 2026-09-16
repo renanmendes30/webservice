@@ -527,26 +527,6 @@ index.html
 Navegador
 ```
 
----
-
-# 19. Checklist da aula
-
-- [ ] Raspberry Pi conectada à rede
-- [ ] IP identificado com `hostname -I`
-- [ ] Sistema atualizado
-- [ ] Apache instalado
-- [ ] Apache em execução
-- [ ] Página padrão testada
-- [ ] Virtual Host criado
-- [ ] `apache2ctl configtest` retornando `Syntax OK`
-- [ ] Virtual Host habilitado
-- [ ] Arquivo `hosts` configurado
-- [ ] Permissões configuradas
-- [ ] `index.html` criado
-- [ ] Página acessada pelo navegador
-
----
-
 ## Referência
 
 Tutorial original:
