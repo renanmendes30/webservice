@@ -1,9 +1,5 @@
 # Servidor Web com Raspberry Pi
 
-> Tutorial adaptado e organizado a partir do guia **"Servidor Web com Raspberry Pi"**, da MakerHero.  
-> Fonte: https://www.makerhero.com/guia/raspberry-pi/servidor-web-raspberry-pi/  
-> Acesso: 16/09/2026.
-
 ## 1. Objetivo
 
 Transformar uma Raspberry Pi em um servidor web local utilizando o **Apache HTTP Server**.
