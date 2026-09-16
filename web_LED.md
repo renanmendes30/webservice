@@ -15,16 +15,6 @@ Vamos utilizar o **GPIO 17**.
 
 ### Ligação
 
-```text
-GPIO 17
-   │
-   │
- [220Ω]
-   │
-   │
-   ├────► LED ──── GND
-```
-
 Na Raspberry Pi, o GPIO 17 corresponde ao **pino físico 11**.
 
 ```text
@@ -32,13 +22,6 @@ Raspberry Pi
 
 GPIO 17 → Pino físico 11
 GND     → Pino físico 6
-```
-
-Então:
-
-```text
-Pino 11 ─── resistor ─── LED ─── Pino 6
-GPIO 17                         GND
 ```
 
 **Atenção:** o LED deve ter resistor em série.
